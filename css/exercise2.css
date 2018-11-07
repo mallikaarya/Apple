@@ -1,0 +1,12 @@
+p#about_blue {
+  color:black;
+  }
+  ul li#about_blue {
+    color:blue;
+  }
+  div#about_blue {
+    background-color:#6495ED;
+    border-color:black;
+    border-width:3px;
+  }
+  
